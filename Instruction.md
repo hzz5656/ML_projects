@@ -1,7 +1,3 @@
-SETUP
-You work for a lending company that provides small loans to individual borrowers for 3 or 5 years. The company has collected data on the loans granted in the past few years. Your responsibility is to conduct an analysis of the data and retrieve key data insights as described below.
-
-Dataset Description: All the data you need is in the attached CSV file. This table contains the following fields:
 
 row_id - A unique id for the row
 customer_id — A unique id for the loan borrower
@@ -28,11 +24,5 @@ total_payment — Total payment on the loan so far
 total_received_principal — Total principal payments received on the loan so far
 total_received_interest — Total interest payments received on the loan so far
 
-Tasks:
-Implement one or more models to predict whether a loan will be "good" or "bad"
-Assess the performance of your models, using statistics or charts as necessary
-Discuss the implications of your work and any insights you have uncovered
-Deliverables:
 
-Report -- A summary report of your methodology and findings, including both text and graphs. Maximum 2 pages (excluding figures and tables)
-Code -- The code you wrote to conduct the analysis via a public github link (preferred) or plain text files via attachment
+
