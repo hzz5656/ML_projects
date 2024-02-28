@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-This project is a simplified version of a movie recommender system based on the IMDB movie dataset. The original project cannot be shared due to a confidential agreement, but this serves as a reference with a similar approach.
+This project is a simplified version of a recommender system based on the IMDB movie dataset. The original project cannot be shared due to a confidential agreement, but this serves as a reference with a similar approach.
 
 ## Overview
 
